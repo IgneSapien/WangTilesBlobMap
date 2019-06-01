@@ -1,0 +1,73 @@
+{"FilePath":"Cheepicus_12x12.png","GlyphHeight":12,"GlyphPadding":0,"GlyphWidth":12,"Name":"Cheepicus12","SolidGlyphIndex":219,
+  "GlyphDefinitions": {
+    "Wall1": {
+      "Glyph": 35,
+      "Mirror": 0
+    },
+    "Wall2": {
+      "Glyph": 35,
+      "Mirror": 0
+    },
+    "Player1": {
+      "Glyph": 64,
+      "Mirror": 0
+    },
+	"Player2": {
+      "Glyph": 64,
+      "Mirror": 0
+    },
+	"Rat1": {
+      "Glyph": 114,
+      "Mirror": 0
+    },
+	"Rat2": {
+      "Glyph": 114,
+      "Mirror": 0
+    },
+	"BigRat1": {
+      "Glyph": 82,
+      "Mirror": 0
+    },
+	"BigRat2": {
+      "Glyph": 82,
+      "Mirror": 0
+    },
+	"Floor1": {
+      "Glyph": 46,
+      "Mirror": 0
+    },
+	"Floor2": {
+      "Glyph": 46,
+      "Mirror": 0
+    },
+	"Block": {
+      "Glyph": 61,
+      "Mirror": 0
+    },
+	"Miss": {
+      "Glyph": 92,
+      "Mirror": 0
+    },
+	"Hit": {
+      "Glyph": 42,
+      "Mirror": 0
+    },
+	"Light": {
+      "Glyph": 73,
+      "Mirror": 0
+    },
+	"DoorClosed": {
+      "Glyph": 43,
+      "Mirror": 0
+    }
+	,
+	"DoorOpen": {
+      "Glyph": 0,
+      "Mirror": 0
+    },
+	"Blood1": {
+      "Glyph": 272,
+      "Mirror": 0
+    }
+ }
+}
